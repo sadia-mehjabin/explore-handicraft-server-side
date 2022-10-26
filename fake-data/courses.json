@@ -1,6 +1,44 @@
 [
     {"name" : "block",
       "id" : 1,
-      "img": "https://www.gettyimages.com/detail/photo/close-up-of-a-lackware-craftsman-okinawa-japan-royalty-free-image/71446337?phrase=handicrafts&adppopup=true"
+      "img": "./lifestyle-g1595254af_1920.jpg",
+      "date":"29/10/2022",
+      "duration":"1.30 hr",
+      "category_id": 1
+    },
+    {"name" : "batik",
+      "id" : 2,
+      "img": "",
+      "date":"",
+      "duration":"1.00 hr",
+      "category_id": 2
+    },
+    {"name" : "selai",
+      "id" : 3,
+      "img": "",
+      "date":"",
+      "duration":"1 day",
+      "category_id": 3
+    },
+    {"name" : "cooking",
+      "id" : 4,
+      "img": "",
+      "date":"",
+      "duration":"3 days",
+      "category_id": 4
+    },
+    {"name" : "block",
+      "id" : 5,
+      "img": "",
+      "date":"",
+      "duration":"2.30 hr",
+      "category_id": 5
+    },
+    {"name" : "block",
+      "id" : 6,
+      "img": "",
+      "date":"",
+      "duration":"40 minutes",
+      "category_id": 6
     }
 ]
