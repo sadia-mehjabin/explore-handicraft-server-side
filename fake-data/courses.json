@@ -1,44 +1,44 @@
 [
-    {"name" : "block",
+    {"name" : "Paper craft",
       "id" : 1,
-      "img": "./lifestyle-g1595254af_1920.jpg",
+      "img": "http://localhost:3000/images/lifestyle-g1595254af_1920.jpg",
       "date":"29/10/2022",
       "duration":"1.30 hr",
-      "category_id": 1
+      "category_id": 7
     },
-    {"name" : "batik",
+    {"name" : "Glass painting",
       "id" : 2,
-      "img": "",
+      "img": "http://localhost:3000/images/gettyimages-71446337-170667a.jpg",
       "date":"",
       "duration":"1.00 hr",
-      "category_id": 2
+      "category_id": 8
     },
-    {"name" : "selai",
+    {"name" : "Pottery",
       "id" : 3,
-      "img": "",
+      "img": "http://localhost:3000/images/pottery.jpg",
       "date":"",
       "duration":"1 day",
-      "category_id": 3
+      "category_id": 9
     },
-    {"name" : "cooking",
+    {"name" : "Swing",
       "id" : 4,
-      "img": "",
+      "img": "http://localhost:3000/images/selai.jpg",
       "date":"",
       "duration":"3 days",
-      "category_id": 4
+      "category_id": 10
     },
-    {"name" : "block",
+    {"name" : "Decorate with nature",
       "id" : 5,
-      "img": "",
+      "img": "http://localhost:3000/images/decorative-item-with-nature.jpg",
       "date":"",
       "duration":"2.30 hr",
-      "category_id": 5
+      "category_id": 11
     },
-    {"name" : "block",
+    {"name" : "Tat shilpo",
       "id" : 6,
-      "img": "",
+      "img": "http://localhost:3000/images/work-with-tat.jpg",
       "date":"",
-      "duration":"40 minutes",
-      "category_id": 6
+      "duration":"40 days",
+      "category_id": 12
     }
 ]

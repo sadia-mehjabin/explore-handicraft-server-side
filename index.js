@@ -3,9 +3,11 @@ const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 5000;
 
+app.use(express.static('public'))
 app.use(cors());
 
 const courses = require('./fake-data/courses.json')
+
 
 app.get('/', (req, res) =>{
     res.send('handicraft server is running')
