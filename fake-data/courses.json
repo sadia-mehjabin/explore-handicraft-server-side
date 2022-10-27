@@ -4,41 +4,47 @@
       "img": "http://localhost:3000/images/lifestyle-g1595254af_1920.jpg",
       "date":"29/10/2022",
       "duration":"1.30 hr",
-      "category_id": 7
+      "category_id": 7,
+      "description": "are you interested in paper craft? then this course is only for you. Paper craft is a collection of crafts using paper or card as the primary artistic medium for the creation of two or three-dimensional objects. Paper and card stock lend themselves to a wide range of techniques and can be folded, curved, bent, cut, glued, molded, stitched, or layered."
     },
     {"name" : "Glass painting",
       "id" : 2,
       "img": "http://localhost:3000/images/gettyimages-71446337-170667a.jpg",
       "date":"",
       "duration":"1.00 hr",
-      "category_id": 8
+      "category_id": 8,
+      "description": "are you interested in glass painting? then this course is only for you. glass painting is an amazing work.Glass paintings are executed with oil and hard resin or with watercolour and gum on glass sheets. These have been a folk art tradition in Europe and North America and, from the 15th to the 18th century, were regarded as a fine art"
     },
     {"name" : "Pottery",
       "id" : 3,
       "img": "http://localhost:3000/images/pottery.jpg",
       "date":"",
       "duration":"1 day",
-      "category_id": 9
+      "category_id": 9,
+      "description": "are you interested in pottery? then this course is only for you. Pottery is the process and the products of forming vessels and other objects with clay and other ceramic materials, which are fired at high temperatures to give them a hard, durable form. Major types include earthenware, stoneware and porcelain. The place where such wares are made by a potter is also called a pottery."
     },
-    {"name" : "Swing",
+    {"name" : "Hand embroidery",
       "id" : 4,
       "img": "http://localhost:3000/images/selai.jpg",
       "date":"",
       "duration":"3 days",
-      "category_id": 10
+      "category_id": 10,
+      "description": "are you interested in hand embroidery? then this course is only for you. Embroidery is the craft of decorating fabric or other materials using a needle to apply thread or yarn. The word embroidery comes from the French word broderie, meaning embellishment. In various forms, embroidery has existed since the production of fabric."
     },
     {"name" : "Decorate with nature",
       "id" : 5,
       "img": "http://localhost:3000/images/decorative-item-with-nature.jpg",
       "date":"",
       "duration":"2.30 hr",
-      "category_id": 11
+      "category_id": 11,
+      "description": "are you interested in Decorate with nature? then this course is only for you. In this class, your child will create a work of art using natural materials that they forage. They will get the chance to explore the landscape and gather ."
     },
     {"name" : "Tat shilpo",
       "id" : 6,
       "img": "http://localhost:3000/images/work-with-tat.jpg",
       "date":"",
       "duration":"40 days",
-      "category_id": 12
+      "category_id": 12,
+      "description": "are you interested in handloom? then this course is only for you. The handloom experience (soft, comfortable and durable) is due to the human handling of the yarn in the weaving process. As a result, yarn and the fabric are much less stressed and damaged. Hand woven cotton is known for its breathability as compared to mill made cotton. This implies that it allows more air penetration making it cooler, softer and more absorbent. It keeps you cooler in summers and warm in winters."
     }
 ]
